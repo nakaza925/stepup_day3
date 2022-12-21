@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(250, 209, 24, 0.507);
+    color:brown
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center; 
+}
+
+canvas{
+    border:3px brown solid;
+}
+
+.color a{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+.black{
+    background-color:black;
+}
+.red{
+    background-color: red;
+}
+.pink{
+    background-color: pink;
+}
+.blue{
+    background-color: blue;
+}
+.white{
+    background-color: white;
+}
